@@ -1,5 +1,5 @@
 # UK-Crime-Browser
-A simple application that let's you browse crimes in UK using a map. 
+A simple application that lets you browse crimes in UK using a map. 
 
 
 ## Architecture
