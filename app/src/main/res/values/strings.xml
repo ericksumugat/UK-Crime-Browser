@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UK Crime Browser</string>
+
+    <string name="date_format">YYYY-MM</string>
+
+    <string name="label_category">Crime: %1$s</string>
+    <string name="label_month">Month: %1$s</string>
+    <string name="label_street">Street: %1$s</string>
+    <string name="label_outcome">Outcome: %1$s</string>
+    <string name="label_outcome_date">Outcome Date: %1$s</string>
+</resources>
